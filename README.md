@@ -18,3 +18,7 @@ This website was made with:
   > REACT_APP_GOOGLE_NEWS_API=enter-your-google-access-key-here
 
 - `npm run start` to run locally (PORT 3000 by default)
+
+#### Challenge
+
+see [here](https://github.com/cavalcanticampos/meiuca-news/blob/master/CHALLENGE.md) what I went through.
